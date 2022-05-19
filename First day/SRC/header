@@ -1,0 +1,8 @@
+function Header()
+{
+    return(
+        <h1> I AM SNEHAL</h1>
+    )
+}
+
+export default Header;
